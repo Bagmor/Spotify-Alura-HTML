@@ -96,3 +96,35 @@
     border-radius: 40px;
     
   }
+
+
+
+  .playlist-container{
+    /*VW = VIEWPORT WIDTH*/
+    /*VH = VIEWPORT HEIGHT*/
+    height: 68vh;
+    padding-top: 16px;
+    margin: 10px; 
+    background-color: #121212;
+    border-radius: 10px;
+
+}
+
+
+ .playlist{
+    margin: 20px;
+ }
+
+.playlist #text_card_title{
+    color:#f0e9e9;
+    font-weight: 700px;
+    font-size: 32px;
+    margin-bottom: 32px; /* Espaçamento entre os textos */
+}
+
+.playlist .text_card_subtitle{
+    color:#f0e9e9;
+    font-weight: 700px;
+    font-size: 24px;
+  
+}
